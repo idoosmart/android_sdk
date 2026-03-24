@@ -3,6 +3,12 @@ native android bluetooth protocol sdk libs
 
 
 
+## Supports Ring Devices (v4.5.0+):
+
+* *Add Dependency Libraries [Go to update](https://idoosmart.github.io/Native_GitBook/en/doc/IDOSDK.html?h=Use%20SDK%20v4.5.0%20and%20above);
+
+
+
 ## Android 16K Support (v4.4.0+):
 
 * *Upgrade the Flutter engine [Go to update](https://idoosmart.github.io/Native_GitBook/en/doc/IDOSDK.html?h=Use%20SDK%20version%204.4.0%20and%20above);
